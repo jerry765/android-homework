@@ -22,4 +22,11 @@
         android:name="com.example.musicplayer.ui.recent.RecentFragment"
         android:label="@string/title_recent"
         tools:layout="@layout/fragment_recent" />
+
+    <fragment
+        android:id="@+id/navigation_friend"
+        android:name="com.example.musicplayer.ui.friends.FriendsFragment"
+        android:label="好友"
+        tools:layout="@layout/fragment_friends" />
+
 </navigation>

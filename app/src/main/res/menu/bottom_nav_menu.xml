@@ -16,4 +16,8 @@
         android:icon="@drawable/ic_favorite_music"
         android:title="@string/title_favorites" />
 
+    <item
+        android:id="@+id/navigation_friend"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/title_friends" />
 </menu>
